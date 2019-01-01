@@ -58,7 +58,7 @@ Blog Park: https://www.cnblogs.com/laozhang-is-phi/
  Code Cloud: Https://gitee.com/laozhangIsPhi/Blog.Core
  
  <div class=""allindex"">
-<h1 id=""allindex"">Directory</h1>
+<h1 id=""allindex"">Directory：</h1>
 <h2 id=""abp框架学习目录如下"">Lao Zhang. The Netcore and Vue Framework Learning catalogue is as follows</h2>
 <ul>
 <li>
